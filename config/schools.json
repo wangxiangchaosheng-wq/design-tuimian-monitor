@@ -1,0 +1,533 @@
+[
+  {
+    "school": "清华大学",
+    "units": "美术学院；深圳国际研究生院",
+    "priority": "A",
+    "urls": [
+      "https://yz.tsinghua.edu.cn/zsxx/sszs.htm",
+      "https://www.ad.tsinghua.edu.cn/info/1569/",
+      "https://www.sigs.tsinghua.edu.cn/7769/list.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "北京大学",
+    "units": "建筑与景观设计学院；艺术学院",
+    "priority": "A",
+    "urls": [
+      "https://admission.pku.edu.cn/zsxx/sszs/index.htm",
+      "https://www.cala.pku.edu.cn/",
+      "https://www.art.pku.edu.cn/zsxx/index.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "中国人民大学",
+    "units": "艺术学院",
+    "priority": "B",
+    "urls": [
+      "https://pgs.ruc.edu.cn/",
+      "https://art.ruc.edu.cn/zsjy/zsxx/index.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "北京航空航天大学",
+    "units": "新媒体艺术与设计学院",
+    "priority": "A",
+    "urls": [
+      "https://yzb.buaa.edu.cn/",
+      "https://art.buaa.edu.cn/zsjy/zsxx.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "北京理工大学",
+    "units": "设计与艺术学院",
+    "priority": "A",
+    "urls": [
+      "https://grd.bit.edu.cn/zsgz/ssyjs/index.htm",
+      "https://design.bit.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "中国农业大学",
+    "units": "园艺学院；风景园林相关方向",
+    "priority": "C",
+    "urls": [
+      "https://yz.cau.edu.cn/",
+      "https://yyxy.cau.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "北京师范大学",
+    "units": "艺术与传媒学院",
+    "priority": "B",
+    "urls": [
+      "https://yz.bnu.edu.cn/",
+      "https://www.art.bnu.edu.cn/rcpy/yjszs/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "中央民族大学",
+    "units": "美术学院",
+    "priority": "B",
+    "urls": [
+      "https://grs.muc.edu.cn/yjsyzsw/",
+      "https://art.muc.edu.cn/rcpy/yjsjy.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "南开大学",
+    "units": "文学院艺术设计相关方向",
+    "priority": "C",
+    "urls": [
+      "https://yzb.nankai.edu.cn/",
+      "https://wxy.nankai.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "天津大学",
+    "units": "建筑学院",
+    "priority": "A",
+    "urls": [
+      "https://yzb.tju.edu.cn/",
+      "https://arch.tju.edu.cn/rcpy/yjspy/zsxx.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "大连理工大学",
+    "units": "建筑与艺术学院",
+    "priority": "B",
+    "urls": [
+      "https://gs.dlut.edu.cn/zsgz.htm",
+      "https://aaschool.dlut.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "东北大学",
+    "units": "艺术学院；江河建筑学院",
+    "priority": "C",
+    "urls": [
+      "https://yz.neu.edu.cn/",
+      "https://www.arts.neu.edu.cn/",
+      "https://jz.neu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "吉林大学",
+    "units": "艺术学院",
+    "priority": "C",
+    "urls": [
+      "https://zsb.jlu.edu.cn/",
+      "https://art.jlu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "哈尔滨工业大学",
+    "units": "建筑与设计学院；数字媒体相关方向",
+    "priority": "A",
+    "urls": [
+      "https://yzb.hit.edu.cn/",
+      "https://arch.hit.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "复旦大学",
+    "units": "艺术教育中心；相关交叉方向",
+    "priority": "C",
+    "urls": [
+      "https://gsao.fudan.edu.cn/",
+      "https://www.ao.fudan.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "同济大学",
+    "units": "设计创意学院；建筑与城市规划学院；艺术与传媒学院",
+    "priority": "A",
+    "urls": [
+      "https://yz.tongji.edu.cn/info/1010/4220.htm",
+      "https://tjdi.tongji.edu.cn/NewsList.do?lang=",
+      "https://caup.tongji.edu.cn/yjsjx/zsxx.htm",
+      "https://am.tongji.edu.cn/1482/list.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "上海交通大学",
+    "units": "设计学院；媒体与传播学院",
+    "priority": "A",
+    "urls": [
+      "https://yzb.sjtu.edu.cn/",
+      "https://designschool.sjtu.edu.cn/",
+      "https://smc.sjtu.edu.cn/rcpy/yjsjy/zsxx.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "华东师范大学",
+    "units": "设计学院；传播学院",
+    "priority": "A",
+    "urls": [
+      "https://yjszs.ecnu.edu.cn/",
+      "https://www.design.ecnu.edu.cn/",
+      "https://comm.ecnu.edu.cn/rcpy/yjsjy/zsxx.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "南京大学",
+    "units": "建筑与城市规划学院；艺术学院",
+    "priority": "B",
+    "urls": [
+      "https://grawww.nju.edu.cn/",
+      "https://arch.nju.edu.cn/",
+      "https://art.nju.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "东南大学",
+    "units": "艺术学院；建筑学院",
+    "priority": "A",
+    "urls": [
+      "https://yzb.seu.edu.cn/",
+      "https://arts.seu.edu.cn/17236/list.htm",
+      "https://arch.seu.edu.cn/9126/list.htm"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "浙江大学",
+    "units": "软件学院工业设计工程；艺术与考古学院；计算机交互相关方向",
+    "priority": "A",
+    "urls": [
+      "https://grs.zju.edu.cn/yjszs/",
+      "https://www.cs.zju.edu.cn/",
+      "https://www.som.zju.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "中国科学技术大学",
+    "units": "科技传播与科技政策系；交叉方向",
+    "priority": "C",
+    "urls": [
+      "https://yz.ustc.edu.cn/",
+      "https://sts.ustc.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "厦门大学",
+    "units": "创意与创新学院；艺术学院；建筑与土木工程学院",
+    "priority": "A",
+    "urls": [
+      "https://zs.xmu.edu.cn/",
+      "https://ici.xmu.edu.cn/1331/list.htm",
+      "https://art.xmu.edu.cn/1070/list.htm",
+      "https://archt.xmu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "山东大学",
+    "units": "艺术学院；文化遗产研究院",
+    "priority": "B",
+    "urls": [
+      "https://www.yz.sdu.edu.cn/",
+      "https://www.art.sdu.edu.cn/",
+      "https://www.wh.sdu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "中国海洋大学",
+    "units": "文学与新闻传播学院；艺术相关方向",
+    "priority": "C",
+    "urls": [
+      "https://yz.ouc.edu.cn/",
+      "https://wxy.ouc.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "武汉大学",
+    "units": "城市设计学院；新闻与传播学院",
+    "priority": "A",
+    "urls": [
+      "https://gs.whu.edu.cn/zsxx.htm",
+      "https://sud.whu.edu.cn/",
+      "https://journal.whu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "华中科技大学",
+    "units": "建筑与城市规划学院",
+    "priority": "A",
+    "urls": [
+      "https://gszs.hust.edu.cn/",
+      "https://aup.hust.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "湖南大学",
+    "units": "设计艺术学院；建筑与规划学院",
+    "priority": "A",
+    "urls": [
+      "https://gra.hnu.edu.cn/zsxx.htm",
+      "https://design.hnu.edu.cn/gg.htm",
+      "https://arch.hnu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "中南大学",
+    "units": "建筑与艺术学院",
+    "priority": "B",
+    "urls": [
+      "https://gra.csu.edu.cn/zsgz.htm",
+      "https://art.csu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "中山大学",
+    "units": "艺术学院；相关交叉方向",
+    "priority": "B",
+    "urls": [
+      "https://graduate.sysu.edu.cn/zsw/",
+      "https://art.sysu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "华南理工大学",
+    "units": "设计学院；建筑学院",
+    "priority": "A",
+    "urls": [
+      "https://yz.scut.edu.cn/",
+      "https://www2.scut.edu.cn/design/",
+      "https://www2.scut.edu.cn/architecture/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "四川大学",
+    "units": "艺术学院；建筑与环境学院",
+    "priority": "A",
+    "urls": [
+      "https://yz.scu.edu.cn/",
+      "https://art.scu.edu.cn/",
+      "https://acem.scu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "重庆大学",
+    "units": "建筑城规学院；艺术学院",
+    "priority": "A",
+    "urls": [
+      "https://yz.cqu.edu.cn/",
+      "https://chongjian.cqu.edu.cn/1342/list.htm",
+      "https://arts.cqu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "电子科技大学",
+    "units": "数字文化与传媒相关方向",
+    "priority": "C",
+    "urls": [
+      "https://yz.uestc.edu.cn/",
+      "https://www.scie.uestc.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "西安交通大学",
+    "units": "人居环境与建筑工程学院；人文学院艺术系",
+    "priority": "B",
+    "urls": [
+      "https://yz.xjtu.edu.cn/",
+      "https://hsce.xjtu.edu.cn/",
+      "https://rwxy.xjtu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "西北工业大学",
+    "units": "机电学院工业设计；艺术与科技相关方向",
+    "priority": "A",
+    "urls": [
+      "https://yzb.nwpu.edu.cn/",
+      "https://jidian.nwpu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "西北农林科技大学",
+    "units": "风景园林艺术学院",
+    "priority": "B",
+    "urls": [
+      "https://yz.nwafu.edu.cn/",
+      "https://ylxy.nwafu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "兰州大学",
+    "units": "艺术学院",
+    "priority": "C",
+    "urls": [
+      "https://yz.lzu.edu.cn/",
+      "https://art.lzu.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "国防科技大学",
+    "units": "人机交互/智能设计相关交叉方向",
+    "priority": "C",
+    "urls": [
+      "https://yjszs.nudt.edu.cn/"
+    ],
+    "tier": "985"
+  },
+  {
+    "school": "北京邮电大学",
+    "tier": "211",
+    "units": "数字媒体与设计艺术学院",
+    "priority": "A",
+    "urls": [
+      "https://yzb.bupt.edu.cn/list/list.php?p=2_1_1",
+      "https://sdmda.bupt.edu.cn/zsjy/yjszs.htm"
+    ]
+  },
+  {
+    "school": "华东理工大学",
+    "tier": "211",
+    "units": "艺术设计与传媒学院",
+    "priority": "A",
+    "urls": [
+      "https://gschool.ecust.edu.cn/12754/list.htm",
+      "https://art.ecust.edu.cn/4041/list.htm"
+    ]
+  },
+  {
+    "school": "南京航空航天大学",
+    "tier": "211",
+    "units": "艺术学院",
+    "priority": "A",
+    "urls": [
+      "https://www.graduate.nuaa.edu.cn/13502/list.htm",
+      "https://ysxy.nuaa.edu.cn/rcpy/yjsjy.htm"
+    ]
+  },
+  {
+    "school": "北京工业大学",
+    "tier": "211",
+    "units": "艺术设计学院；建筑与城市规划学院",
+    "priority": "A",
+    "urls": [
+      "https://yanzhao.bjut.edu.cn/",
+      "https://bjiad.bjut.edu.cn/"
+    ]
+  },
+  {
+    "school": "北京林业大学",
+    "tier": "211",
+    "units": "艺术设计学院；园林学院",
+    "priority": "A",
+    "urls": [
+      "https://graduate.bjfu.edu.cn/zsgl/",
+      "https://ad.bjfu.edu.cn/",
+      "https://sola.bjfu.edu.cn/"
+    ]
+  },
+  {
+    "school": "江南大学",
+    "tier": "211",
+    "units": "设计学院；数字媒体学院",
+    "priority": "A",
+    "urls": [
+      "https://yz.jiangnan.edu.cn/",
+      "https://sodcn.jiangnan.edu.cn/",
+      "https://dm.jiangnan.edu.cn/"
+    ]
+  },
+  {
+    "school": "苏州大学",
+    "tier": "211",
+    "units": "艺术学院；金螳螂建筑学院",
+    "priority": "A",
+    "urls": [
+      "https://yjs.suda.edu.cn/",
+      "https://art.suda.edu.cn/",
+      "https://arch.suda.edu.cn/"
+    ]
+  },
+  {
+    "school": "南京师范大学",
+    "tier": "211",
+    "units": "美术学院；新闻与传播学院",
+    "priority": "B",
+    "urls": [
+      "https://yz.njnu.edu.cn/",
+      "https://msxy.njnu.edu.cn/"
+    ]
+  },
+  {
+    "school": "武汉理工大学",
+    "tier": "211",
+    "units": "艺术与设计学院",
+    "priority": "A",
+    "urls": [
+      "https://gd.whut.edu.cn/",
+      "https://a-d.whut.edu.cn/"
+    ]
+  },
+  {
+    "school": "中国传媒大学",
+    "tier": "211",
+    "units": "动画与数字艺术学院；广告学院；戏剧影视学院",
+    "priority": "A",
+    "urls": [
+      "https://yz.cuc.edu.cn/",
+      "https://animation.cuc.edu.cn/"
+    ]
+  },
+  {
+    "school": "暨南大学",
+    "tier": "211",
+    "units": "艺术学院；新闻与传播学院",
+    "priority": "B",
+    "urls": [
+      "https://yz.jnu.edu.cn/",
+      "https://arts.jnu.edu.cn/"
+    ]
+  },
+  {
+    "school": "福州大学",
+    "tier": "211",
+    "units": "厦门工艺美术学院；建筑与城乡规划学院",
+    "priority": "A",
+    "urls": [
+      "https://yjsy.fzu.edu.cn/zsgz.htm",
+      "https://art.fzu.edu.cn/"
+    ]
+  }
+]
