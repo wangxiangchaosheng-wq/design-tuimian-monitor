@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09 21:29",
+  "generated_at": "2026-08-10 01:08",
   "changes": [
     {
       "type": "updated",
@@ -32,6 +32,14 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
