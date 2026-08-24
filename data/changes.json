@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 17:17",
+  "generated_at": "2026-08-24 21:25",
   "changes": [
     {
       "type": "updated",
@@ -18,20 +18,20 @@
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "新闻与事件",
+      "url": "https://designschool.sjtu.edu.cn/dynamic/notice/detail/6a616cf777f02e90e5763e82"
+    },
+    {
       "type": "updated",
       "tier": "985",
       "school": "东南大学",
       "unit": "艺术学院",
       "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "四川大学",
-      "unit": "艺术学院",
-      "title": "硕士接收推免生专业目录_四川大学研究生招生信息网",
-      "url": "https://yz.scu.edu.cn/sszyml/tmsml"
     },
     {
       "type": "updated",
