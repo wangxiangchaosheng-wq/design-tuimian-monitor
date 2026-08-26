@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 21:29",
+  "generated_at": "2026-08-27 01:14",
   "changes": [
     {
       "type": "updated",
@@ -24,6 +24,38 @@
       "unit": "艺术学院",
       "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "设计学院",
+      "title": "设计学院",
+      "url": "https://www2.scut.edu.cn/design/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "华南理工大学建筑学院2026-2027学年辅导员办公室学生助理招聘公告",
+      "url": "https://www2.scut.edu.cn/architecture/2025/0814/c35205a599461/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "华南理工大学建筑学院2026-2027学年兼职辅导员招聘公告",
+      "url": "https://www2.scut.edu.cn/architecture/2026/0702/c35205a631386/page.htm"
     },
     {
       "type": "updated",
