@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 13:47",
+  "generated_at": "2026-09-01 00:26",
   "changes": [
     {
       "type": "updated",
@@ -14,8 +14,16 @@
       "tier": "985",
       "school": "北京大学",
       "unit": "建筑与景观设计学院",
-      "title": "北京大学 2027 年接收推荐免试研究生办法（校本部） \n按照教育部研究生招生工作的有关规定，北京大学通过推荐免\n试方式接收全国优秀应届本科毕业生攻读硕士、 博士学位。在推免接\n收工作中， 北京大学落实立德树人根本任务，坚持公平、 公正、 公开\n原则，坚持德智体美劳全面衡量， 注重考核学生创新能力、 实践能力\n和专业能力，综合评价、择优选拔。 \n \n一、申请",
-      "url": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf"
+      "title": "基于自然的解决方案国际会议",
+      "url": "https://www.cala.pku.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京大学",
+      "unit": "建筑与景观设计学院",
+      "title": "招生信息",
+      "url": "https://www.cala.pku.edu.cn/info/1339/5812.htm"
     },
     {
       "type": "updated",
@@ -28,10 +36,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "哈尔滨工业大学",
-      "unit": "建筑与设计学院",
-      "title": "2027年接收优秀应届本科毕业生免试攻读研究生报名通知汇总",
-      "url": "https://yzb.hit.edu.cn/2026/0721/c22276a397947/page.htm"
+      "school": "华东师范大学",
+      "unit": "设计学院",
+      "title": "华东师范大学2027年各院系接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知（陆续更新）",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "华东师范大学",
+      "unit": "设计学院",
+      "title": "华东师范大学2027年各院系接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知（陆续更新）",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
     },
     {
       "type": "updated",
@@ -46,16 +62,8 @@
       "tier": "985",
       "school": "华南理工大学",
       "unit": "建筑学院",
-      "title": "建筑学院2026-2027学年教务办公室助理、组织人事办公室助理招聘公告",
-      "url": "https://www2.scut.edu.cn/architecture/2026/0828/c35205a633813/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华南理工大学",
-      "unit": "建筑学院",
-      "title": "华南理工大学建筑学院2026-2027学年辅导员办公室学生助理招聘公告",
-      "url": "https://www2.scut.edu.cn/architecture/2025/0814/c35205a599461/page.htm"
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
     },
     {
       "type": "updated",
@@ -64,6 +72,14 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "江南大学接收2027年推荐免试研究生预报名公告-江南大学研究生招生信息网",
+      "url": "https://yz.jiangnan.edu.cn/info/1029/3865.htm"
     }
   ]
 }
