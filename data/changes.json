@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 13:21",
+  "generated_at": "2026-09-01 21:46",
   "changes": [
     {
       "type": "updated",
@@ -18,12 +18,12 @@
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "新闻与事件",
-      "url": "https://designschool.sjtu.edu.cn/dynamic/notice/detail/6a96329e0e69fa2ed5ac5166"
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "2027年接收优秀应届本科毕业生免试攻读研究生报名通知汇总",
+      "url": "https://yzb.hit.edu.cn/2026/0721/c22276a397947/page.htm"
     },
     {
       "type": "updated",
@@ -44,26 +44,26 @@
     {
       "type": "new",
       "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
+      "school": "中国传媒大学",
+      "unit": "动画与数字艺术学院",
+      "title": "中国传媒大学2027年接收推荐免试攻读硕士学位研究生（含直博生）外国语水平基本要求",
+      "url": "https://yz.cuc.edu.cn/2026/0821/c8549a273370/page.htm"
     },
     {
       "type": "new",
       "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传系列活动-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18110.htm"
+      "school": "中国传媒大学",
+      "unit": "动画与数字艺术学院",
+      "title": "中国传媒大学2027年接收推荐免试攻读硕士学位研究生（含直博生）外国语水平基本要求",
+      "url": "https://yz.cuc.edu.cn/2026/0821/c8678a273370/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "211",
-      "school": "苏州大学",
-      "unit": "金螳螂建筑学院",
-      "title": "学院新闻",
-      "url": "https://arch.suda.edu.cn/"
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
