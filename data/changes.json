@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 05:45",
+  "generated_at": "2026-09-01 13:21",
   "changes": [
     {
       "type": "updated",
@@ -18,6 +18,14 @@
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "新闻与事件",
+      "url": "https://designschool.sjtu.edu.cn/dynamic/notice/detail/6a96329e0e69fa2ed5ac5166"
+    },
+    {
       "type": "updated",
       "tier": "985",
       "school": "东南大学",
@@ -32,6 +40,30 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传系列活动-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18110.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "苏州大学",
+      "unit": "金螳螂建筑学院",
+      "title": "学院新闻",
+      "url": "https://arch.suda.edu.cn/"
     }
   ]
 }
