@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 21:03",
+  "generated_at": "2026-09-03 03:42",
   "changes": [
     {
       "type": "updated",
@@ -26,28 +26,28 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院",
-      "url": "https://sud.whu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "城市设计学院2027年接收攻读硕士学位推免生预报名的通知",
-      "url": "https://sud.whu.edu.cn/info/1521/51191.htm"
+      "school": "华南理工大学",
+      "unit": "设计学院",
+      "title": "设计学院",
+      "url": "https://www2.scut.edu.cn/design/"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "西安交通大学",
-      "unit": "人居环境与建筑工程学院",
-      "title": "1\n西安交通大学 2027 年推荐免试研究生招生章程\n招收优秀应届本科毕业生免试攻读研究生，是研究生招生的重要组成部分，\n也是提高研究生招生质量、加强拔尖创新人才选拔、服务支撑教育强国建设的\n重要举措。为做好2027年推荐免试研究生招生工作,根据教育部、陕西省教育考\n试院等推免工作文件要求，经学校研究生招生委员会审议通过，制定本章程。\n一、招生计划及招生学科",
-      "url": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf"
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院2026-2027学年教务办公室助理、组织人事办公室助理招聘公告",
+      "url": "https://www2.scut.edu.cn/architecture/2026/0828/c35205a633813/page.htm"
     },
     {
       "type": "updated",
