@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 21:05",
+  "generated_at": "2026-09-04 03:34",
   "changes": [
     {
       "type": "updated",
@@ -8,14 +8,6 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京大学",
-      "unit": "建筑与景观设计学院",
-      "title": "北京大学 2027 年接收推荐免试研究生办法（校本部） \n按照教育部研究生招生工作的有关规定，北京大学通过推荐免\n试方式接收全国优秀应届本科毕业生攻读硕士、 博士学位。在推免接\n收工作中， 北京大学落实立德树人根本任务，坚持公平、 公正、 公开\n原则，坚持德智体美劳全面衡量， 注重考核学生创新能力、 实践能力\n和专业能力，综合评价、择优选拔。 \n \n一、申请",
-      "url": "https://admission.pku.edu.cn/docs/20260831123041610549.pdf"
     },
     {
       "type": "updated",
@@ -34,28 +26,12 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
-      "tier": "985",
-      "school": "湖南大学",
-      "unit": "设计艺术学院",
-      "title": "湖南大学建筑与规划学院",
-      "url": "https://arch.hnu.edu.cn/"
-    },
-    {
       "type": "updated",
       "tier": "211",
       "school": "华东理工大学",
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "福州大学",
-      "unit": "厦门工艺美术学院",
-      "title": "福州大学厦门工艺美术学院",
-      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
