@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05 03:17",
+  "generated_at": "2026-09-05 06:37",
   "changes": [
     {
       "type": "updated",
@@ -8,22 +8,6 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
     },
     {
       "type": "updated",
@@ -42,12 +26,44 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院",
+      "url": "https://aup.hust.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
+      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
+    },
+    {
       "type": "updated",
       "tier": "211",
       "school": "华东理工大学",
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传系列活动-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18110.htm"
     }
   ]
 }
