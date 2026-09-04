@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04 06:56",
+  "generated_at": "2026-09-04 12:47",
   "changes": [
     {
       "type": "updated",
@@ -8,6 +8,14 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "南开大学",
+      "unit": "文学院艺术设计相关方向",
+      "title": "南开大学文学院 2027年推免预报名通知",
+      "url": "https://wxy.nankai.edu.cn/2026/0904/c34294a601805/page.htm"
     },
     {
       "type": "updated",
@@ -26,6 +34,14 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "西北工业大学",
+      "unit": "机电学院工业设计",
+      "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+    },
+    {
       "type": "updated",
       "tier": "211",
       "school": "华东理工大学",
@@ -34,20 +50,20 @@
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "江南大学接收2027年推荐免试研究生预报名公告-江南大学研究生招生信息网",
+      "url": "https://yz.jiangnan.edu.cn/info/1029/3865.htm"
     },
     {
       "type": "new",
       "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传系列活动-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18110.htm"
+      "school": "苏州大学",
+      "unit": "金螳螂建筑学院",
+      "title": "学院新闻",
+      "url": "https://arch.suda.edu.cn/"
     }
   ]
 }
