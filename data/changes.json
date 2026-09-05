@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05 06:37",
+  "generated_at": "2026-09-05 12:44",
   "changes": [
     {
       "type": "updated",
@@ -26,20 +26,28 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院",
-      "url": "https://aup.hust.edu.cn/"
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "相关学科单位",
+      "url": "https://arch.seu.edu.cn/9126/list.htm"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
-      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "建筑学院2027年接收推荐免试研究生考核结果",
+      "url": "https://arch.seu.edu.cn/2026/0905/c9126a581667/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "西安交通大学",
+      "unit": "人居环境与建筑工程学院",
+      "title": "人文学院2027年招收推荐免试研究生工作实施细则-西安交通大学人文社会科学学院",
+      "url": "https://rwxy.xjtu.edu.cn/info/1065/10528.htm"
     },
     {
       "type": "updated",
@@ -52,18 +60,34 @@
     {
       "type": "new",
       "tier": "211",
-      "school": "北京工业大学",
+      "school": "北京林业大学",
       "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
+      "title": "艺术设计学院",
+      "url": "https://ad.bjfu.edu.cn/"
     },
     {
       "type": "new",
       "tier": "211",
-      "school": "北京工业大学",
+      "school": "北京林业大学",
       "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传系列活动-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18110.htm"
+      "title": "关于艺术设计学院2026-2027学年第一学期本科生转专业工作方案的通知- 艺术设计学院",
+      "url": "https://ad.bjfu.edu.cn/xwdt/jxxw/677df940b131458cbf222389c77f176f.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "苏州大学",
+      "unit": "金螳螂建筑学院",
+      "title": "学院新闻",
+      "url": "https://arch.suda.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
