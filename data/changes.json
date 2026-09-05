@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05 12:44",
+  "generated_at": "2026-09-05 20:06",
   "changes": [
     {
       "type": "updated",
@@ -26,28 +26,20 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
-      "school": "东南大学",
-      "unit": "建筑学院",
-      "title": "相关学科单位",
-      "url": "https://arch.seu.edu.cn/9126/list.htm"
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "东南大学",
-      "unit": "建筑学院",
-      "title": "建筑学院2027年接收推荐免试研究生考核结果",
-      "url": "https://arch.seu.edu.cn/2026/0905/c9126a581667/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "西安交通大学",
-      "unit": "人居环境与建筑工程学院",
-      "title": "人文学院2027年招收推荐免试研究生工作实施细则-西安交通大学人文社会科学学院",
-      "url": "https://rwxy.xjtu.edu.cn/info/1065/10528.htm"
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "建筑与土木工程学院关于“土木工程+法学”双学士学位项目2026-2027学年第一学期选拔拟录取学生名单的公示-厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/info/1043/19374.htm"
     },
     {
       "type": "updated",
@@ -56,38 +48,6 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "北京林业大学",
-      "unit": "艺术设计学院",
-      "title": "艺术设计学院",
-      "url": "https://ad.bjfu.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "北京林业大学",
-      "unit": "艺术设计学院",
-      "title": "关于艺术设计学院2026-2027学年第一学期本科生转专业工作方案的通知- 艺术设计学院",
-      "url": "https://ad.bjfu.edu.cn/xwdt/jxxw/677df940b131458cbf222389c77f176f.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "苏州大学",
-      "unit": "金螳螂建筑学院",
-      "title": "学院新闻",
-      "url": "https://arch.suda.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "福州大学",
-      "unit": "厦门工艺美术学院",
-      "title": "福州大学厦门工艺美术学院",
-      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
