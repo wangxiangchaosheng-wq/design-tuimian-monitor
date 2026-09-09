@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 21:15",
+  "generated_at": "2026-09-10 03:36",
   "changes": [
     {
       "type": "updated",
@@ -12,26 +12,10 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "北京航空航天大学",
-      "unit": "新媒体艺术与设计学院",
-      "title": "",
-      "url": "https://yzb.buaa.edu.cn/info/1036/3610.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "天津大学",
       "unit": "建筑学院",
       "title": "天津大学建筑学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的说明-天津大学建筑学院",
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "哈尔滨工业大学",
-      "unit": "建筑与设计学院",
-      "title": "研招办",
-      "url": "https://yzb.hit.edu.cn/"
     },
     {
       "type": "updated",
@@ -42,52 +26,12 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
-      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院",
-      "url": "https://aup.hust.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
-      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华南理工大学",
-      "unit": "设计学院",
-      "title": "设计学院",
-      "url": "https://www2.scut.edu.cn/design/"
-    },
-    {
       "type": "updated",
       "tier": "985",
       "school": "华南理工大学",
       "unit": "建筑学院",
       "title": "建筑学院",
       "url": "https://www2.scut.edu.cn/architecture/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "华南理工大学",
-      "unit": "建筑学院",
-      "title": "建筑学院关于公示拟推荐2027年应届本科优秀毕业生免试攻读研究生名单的通知",
-      "url": "https://www2.scut.edu.cn/architecture/2026/0909/c35202a634877/page.htm"
     },
     {
       "type": "updated",
@@ -99,35 +43,11 @@
     },
     {
       "type": "updated",
-      "tier": "985",
-      "school": "西北农林科技大学",
-      "unit": "风景园林艺术学院",
-      "title": "西北农林科技大学风景园林艺术学院",
-      "url": "https://ylxy.nwafu.edu.cn/"
-    },
-    {
-      "type": "updated",
       "tier": "211",
       "school": "华东理工大学",
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "江南大学",
-      "unit": "设计学院",
-      "title": "江南大学设计学院",
-      "url": "https://sodcn.jiangnan.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "苏州大学",
-      "unit": "金螳螂建筑学院",
-      "title": "学院新闻",
-      "url": "https://arch.suda.edu.cn/"
     }
   ]
 }
