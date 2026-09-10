@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 12:59",
+  "generated_at": "2026-09-10 21:14",
   "changes": [
     {
       "type": "updated",
@@ -12,18 +12,26 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "天津大学",
-      "unit": "建筑学院",
-      "title": "招生信息-天津大学建筑学院",
-      "url": "https://arch.tju.edu.cn/rcpy/yjspy/zsxx.htm"
+      "school": "北京大学",
+      "unit": "建筑与景观设计学院",
+      "title": "基于自然的解决方案国际会议",
+      "url": "https://www.cala.pku.edu.cn/"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "天津大学",
-      "unit": "建筑学院",
-      "title": "建筑学院2027年接收优秀应届本科毕业生免试攻读研究生（含直博生）实施细则-天津大学建筑学院",
-      "url": "https://arch.tju.edu.cn/info/1218/7631.htm"
+      "school": "北京大学",
+      "unit": "建筑与景观设计学院",
+      "title": "招生信息",
+      "url": "https://www.cala.pku.edu.cn/info/1339/5832.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "北京航空航天大学",
+      "unit": "新媒体艺术与设计学院",
+      "title": "",
+      "url": "https://yzb.buaa.edu.cn/info/1036/3610.htm"
     },
     {
       "type": "updated",
@@ -52,50 +60,26 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "厦门大学",
-      "unit": "建筑与土木工程学院",
-      "title": "厦门大学建筑与土木工程学院",
-      "url": "https://archt.xmu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院",
-      "url": "https://sud.whu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
-      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华南理工大学",
-      "unit": "建筑学院",
-      "title": "建筑学院",
-      "url": "https://www2.scut.edu.cn/architecture/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "四川大学",
       "unit": "艺术学院",
       "title": "四川大学2027年各招生院系所接收优秀应届本科毕业生免试攻读研究生（含直博生）的通知_四川大学研究生招生信息网",
       "url": "https://yz.scu.edu.cn/zsxx/Details/08ab7f58-bed0-4f46-a317-95122e6ea1fd"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
-      "school": "西安交通大学",
-      "unit": "人居环境与建筑工程学院",
-      "title": "人文学院2027年招收推荐免试研究生工作实施细则-西安交通大学人文社会科学学院",
-      "url": "https://rwxy.xjtu.edu.cn/info/1065/10528.htm"
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学研究生招生信息网",
+      "url": "https://yz.nwafu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "关于西北农林科技大学2027年招收推荐免试研究生预报名工作的通知",
+      "url": "https://yz.nwafu.edu.cn/tzgg/efc5ad22976f45b595487499b6c39d8e.htm"
     },
     {
       "type": "updated",
@@ -112,30 +96,6 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "北京林业大学",
-      "unit": "艺术设计学院",
-      "title": "艺术设计学院",
-      "url": "https://ad.bjfu.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "北京林业大学",
-      "unit": "艺术设计学院",
-      "title": "北京林业大学艺术设计学院2027年接收推荐免试硕士研究生复试工作实施办法- 艺术设计学院",
-      "url": "https://ad.bjfu.edu.cn/zsgz/yjszs/28584828ad874bb48cdb7488dbd45b18.htm"
     }
   ]
 }
