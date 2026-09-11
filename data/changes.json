@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12 03:26",
+  "generated_at": "2026-09-12 06:52",
   "changes": [
     {
       "type": "updated",
@@ -26,12 +26,20 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
-      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
+      "school": "四川大学",
+      "unit": "艺术学院",
+      "title": "硕士接收推免生专业目录_四川大学研究生招生信息网",
+      "url": "https://yz.scu.edu.cn/sszyml/tmsml"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "艺术学院",
+      "title": "四川大学2027年各招生院系所接收优秀应届本科毕业生免试攻读研究生（含直博生）的通知_四川大学研究生招生信息网",
+      "url": "https://yz.scu.edu.cn/zsxx/Details/08ab7f58-bed0-4f46-a317-95122e6ea1fd"
     },
     {
       "type": "updated",
