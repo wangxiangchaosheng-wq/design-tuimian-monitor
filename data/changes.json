@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 07:14",
+  "generated_at": "2026-09-17 13:10",
   "changes": [
     {
       "type": "updated",
@@ -42,6 +42,54 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "公告",
+      "url": "https://design.hnu.edu.cn/info/1031/9308.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "公告",
+      "url": "https://design.hnu.edu.cn/info/1031/9287.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "建筑与规划学院2026年推免免试生遴选总名单公示-湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/info/1118/5877.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "建筑与规划学院2027年接收推荐免试攻读研究生 （含直博生）综合考核工作实施细则-湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/info/1118/5876.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
+    },
+    {
       "type": "updated",
       "tier": "985",
       "school": "四川大学",
@@ -51,11 +99,59 @@
     },
     {
       "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学研究生招生信息网",
+      "url": "https://yz.nwafu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "2027年优秀应届本科毕业生免试攻读研究生拟推荐学生名单公示",
+      "url": "https://yz.nwafu.edu.cn/xxgk/7712cef1d4fa4b0aabeb64b428400331.htm"
+    },
+    {
+      "type": "updated",
       "tier": "211",
       "school": "华东理工大学",
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "北京工业大学各学院2027年接收推荐免试研究生工作实施细则（含直博）-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18159.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "",
+      "url": "https://yz.jiangnan.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "江南大学2027年各学院接收推荐免试硕士研究生工作细则-江南大学研究生招生信息网",
+      "url": "https://yz.jiangnan.edu.cn/info/1029/3879.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "江南大学2027年接收推荐免试研究生管理办法-江南大学研究生招生信息网",
+      "url": "https://yz.jiangnan.edu.cn/info/1029/3876.htm"
     }
   ]
 }
