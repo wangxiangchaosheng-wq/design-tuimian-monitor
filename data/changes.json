@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 07:10",
+  "generated_at": "2026-09-18 13:02",
   "changes": [
     {
       "type": "updated",
@@ -20,6 +20,22 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "吉林大学艺术学院",
+      "url": "https://art.jlu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "艺术学院2027年接收推荐免试攻读硕士研究生复试名单公示",
+      "url": "https://art.jlu.edu.cn/info/1039/5795.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "上海交通大学",
       "unit": "设计学院",
       "title": "上海交通大学2027年硕士推免招生专业目录(校本部) - 上海交通大学研究生招生网",
@@ -36,10 +52,34 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "世界",
+      "url": "https://designschool.sjtu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "东南大学",
       "unit": "艺术学院",
       "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院2027年接收优秀应届本科毕业生推荐免试攻读研究生工作实施细则",
+      "url": "https://sud.whu.edu.cn/info/1521/51451.htm"
     },
     {
       "type": "updated",
@@ -56,6 +96,14 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "北京林业大学",
+      "unit": "艺术设计学院",
+      "title": "艺术设计学院",
+      "url": "https://ad.bjfu.edu.cn/"
     }
   ]
 }
