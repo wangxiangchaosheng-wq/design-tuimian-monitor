@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 04:43",
+  "generated_at": "2026-09-22 13:19",
   "changes": [
     {
       "type": "updated",
@@ -36,18 +36,82 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "世界",
-      "url": "https://designschool.sjtu.edu.cn/"
+      "school": "东南大学",
+      "unit": "艺术学院",
+      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
+      "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
       "type": "updated",
       "tier": "985",
       "school": "东南大学",
-      "unit": "艺术学院",
-      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
-      "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
+      "unit": "建筑学院",
+      "title": "相关学科单位",
+      "url": "https://arch.seu.edu.cn/9126/list.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "建筑学院2027年接收推荐免试研究生考核结果",
+      "url": "https://arch.seu.edu.cn/2026/0905/c9126a581667/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "东南大学建筑学院2027年接收推荐免试研究生考核入选名单",
+      "url": "https://arch.seu.edu.cn/2026/0807/c9126a578929/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "东南大学建筑学院2027年接收推荐免试研究生报名通知",
+      "url": "https://arch.seu.edu.cn/2026/0708/c9126a575976/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "关于 2026-2027 学年建筑类学位评定分委员会 会议召开时间安排的通知",
+      "url": "https://arch.seu.edu.cn/2026/0609/c9126a570732/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "中南大学",
+      "unit": "建筑与艺术学院",
+      "title": "建筑与艺术学院2027届预推免生候选人名单公示-建筑与艺术学院门户网站",
+      "url": "https://art.csu.edu.cn/info/1060/5159.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "设计学院",
+      "title": "设计学院",
+      "url": "https://www2.scut.edu.cn/design/"
     },
     {
       "type": "updated",
@@ -64,6 +128,14 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
