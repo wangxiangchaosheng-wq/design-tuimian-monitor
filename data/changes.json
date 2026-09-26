@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26 21:22",
+  "generated_at": "2026-09-27 03:33",
   "changes": [
     {
       "type": "updated",
@@ -8,30 +8,6 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "北京航空航天大学",
-      "unit": "新媒体艺术与设计学院",
-      "title": "",
-      "url": "https://yzb.buaa.edu.cn/info/1036/3610.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
     },
     {
       "type": "updated",
@@ -68,10 +44,10 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院",
-      "url": "https://sud.whu.edu.cn/"
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/"
     },
     {
       "type": "updated",
