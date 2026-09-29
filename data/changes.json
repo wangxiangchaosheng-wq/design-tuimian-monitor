@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29 08:39",
+  "generated_at": "2026-09-29 19:00",
   "changes": [
     {
       "type": "updated",
@@ -10,28 +10,36 @@
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
     },
     {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
-    },
-    {
       "type": "updated",
       "tier": "985",
       "school": "天津大学",
       "unit": "建筑学院",
       "title": "天津大学建筑学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的说明-天津大学建筑学院",
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东北大学",
+      "unit": "艺术学院",
+      "title": "东北大学2027年接收推荐免试研究生工作办法",
+      "url": "https://yz.neu.edu.cn/2026/0720/c5932a458191/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "吉林大学艺术学院",
+      "url": "https://art.jlu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "研招办",
+      "url": "https://yzb.hit.edu.cn/"
     },
     {
       "type": "updated",
@@ -60,10 +68,90 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "相关学科单位",
+      "url": "https://arch.seu.edu.cn/9126/list.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "建筑学院2027年接收推荐免试研究生考核结果",
+      "url": "https://arch.seu.edu.cn/2026/0905/c9126a581667/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "东南大学建筑学院2027年接收推荐免试研究生考核入选名单",
+      "url": "https://arch.seu.edu.cn/2026/0807/c9126a578929/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "东南大学建筑学院2027年接收推荐免试研究生报名通知",
+      "url": "https://arch.seu.edu.cn/2026/0708/c9126a575976/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "关于 2026-2027 学年建筑类学位评定分委员会 会议召开时间安排的通知",
+      "url": "https://arch.seu.edu.cn/2026/0609/c9126a570732/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "中南大学",
+      "unit": "建筑与艺术学院",
+      "title": "建筑与艺术学院2027届预推免生候选人名单公示-建筑与艺术学院门户网站",
+      "url": "https://art.csu.edu.cn/info/1060/5159.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "四川大学",
       "unit": "艺术学院",
       "title": "四川大学2027年各招生院系所接收优秀应届本科毕业生免试攻读研究生（含直博生）的通知_四川大学研究生招生信息网",
       "url": "https://yz.scu.edu.cn/zsxx/Details/08ab7f58-bed0-4f46-a317-95122e6ea1fd"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "艺术学院",
+      "title": "新闻动态 See all",
+      "url": "https://art.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学风景园林艺术学院",
+      "url": "https://ylxy.nwafu.edu.cn/"
     },
     {
       "type": "updated",
@@ -72,6 +160,30 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "北京林业大学",
+      "unit": "艺术设计学院",
+      "title": "艺术设计学院",
+      "url": "https://ad.bjfu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "北京林业大学",
+      "unit": "园林学院",
+      "title": "",
+      "url": "https://sola.bjfu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
