@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02 05:23",
+  "generated_at": "2026-10-02 13:55",
   "changes": [
     {
       "type": "updated",
@@ -8,6 +8,22 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
     },
     {
       "type": "updated",
@@ -51,6 +67,14 @@
     },
     {
       "type": "updated",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "艺术学院",
+      "title": "新闻动态 See all",
+      "url": "https://art.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
       "tier": "211",
       "school": "华东理工大学",
       "unit": "艺术设计与传媒学院",
@@ -60,26 +84,18 @@
     {
       "type": "new",
       "tier": "211",
-      "school": "中国传媒大学",
-      "unit": "动画与数字艺术学院",
-      "title": "中国传媒大学2027年推免预报名复试合格和备选合格人员名单公示",
-      "url": "https://yz.cuc.edu.cn/2026/0920/c8549a274044/page.htm"
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
     },
     {
       "type": "new",
       "tier": "211",
-      "school": "中国传媒大学",
-      "unit": "动画与数字艺术学院",
-      "title": "中国传媒大学2027年接收推荐免试攻读硕士学位研究生（含直博生）外国语水平基本要求",
-      "url": "https://yz.cuc.edu.cn/2026/0821/c8549a273370/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "中国传媒大学",
-      "unit": "动画与数字艺术学院",
-      "title": "中国传媒大学2027年推免预报名复试合格和备选合格人员名单公示",
-      "url": "https://yz.cuc.edu.cn/2026/0920/c8678a274044/page.htm"
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "北京工业大学各学院2027年接收推荐免试研究生工作实施细则（含直博）-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18159.htm"
     }
   ]
 }
