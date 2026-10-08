@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 14:23",
+  "generated_at": "2026-10-08 23:57",
   "changes": [
     {
       "type": "updated",
@@ -12,26 +12,26 @@
     {
       "type": "new",
       "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/"
+      "school": "北京大学",
+      "unit": "建筑与景观设计学院",
+      "title": "1 / 16 \n \n北京大学 2027 年硕士研究生招生简章（校本部） \n北京大学是一所拥有哲学、经济学、法学、教育学、文学、历史\n学、理学、工学、医学、管理学、艺术学、交叉学科等学科门类的综\n合性研究型大学。 我校采用推荐免试和全国统一考试两种选拔方式招\n收全日制攻读硕士学位研究生， 采用全国统一考试方式招收非全日制\n攻读硕士学位研究生。全日制和非全日制研",
+      "url": "https://admission.pku.edu.cn/docs/20261008162609970607.pdf"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
+      "school": "北京航空航天大学",
+      "unit": "新媒体艺术与设计学院",
+      "title": "",
+      "url": "https://yzb.buaa.edu.cn/info/1036/3636.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
       "school": "天津大学",
       "unit": "建筑学院",
-      "title": "招生信息-天津大学建筑学院",
-      "url": "https://arch.tju.edu.cn/rcpy/yjspy/zsxx.htm"
+      "title": "天津大学研究生招生网",
+      "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/202610/t20261008_324747.htm"
     },
     {
       "type": "updated",
@@ -44,18 +44,26 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "吉林大学",
+      "school": "东北大学",
       "unit": "艺术学院",
-      "title": "吉林大学艺术学院",
-      "url": "https://art.jlu.edu.cn/"
+      "title": "东北大学2027年硕士研究生招生专业目录",
+      "url": "https://yz.neu.edu.cn/2026/0930/c5933a480171/page.htm"
     },
     {
       "type": "updated",
       "tier": "985",
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "研招办",
+      "url": "https://yzb.hit.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
       "school": "上海交通大学",
       "unit": "设计学院",
-      "title": "首页 - 上海交通大学研究生招生网",
-      "url": "https://yzb.sjtu.edu.cn/"
+      "title": "上海交通大学2027年硕士研究生招生专业目录（校本部） - 上海交通大学研究生招生网",
+      "url": "https://yzb.sjtu.edu.cn/post/3772"
     },
     {
       "type": "updated",
@@ -66,20 +74,20 @@
       "url": "https://yzb.sjtu.edu.cn/post/3773"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
-      "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "上海交通大学2027年招收优秀应届本科毕业生免试攻读研究生（含直博）办法 - 上海交通大学研究生招生网",
-      "url": "https://yzb.sjtu.edu.cn/post/3775"
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "东南大学2027年硕士研究生招生考试东南大学报考点【3202】 网上报名公告",
+      "url": "https://yzb.seu.edu.cn/2026/1008/c6676a585159/page.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
       "school": "东南大学",
       "unit": "艺术学院",
-      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生考核结果",
-      "url": "https://arts.seu.edu.cn/2026/0920/c17236a583868/page.htm"
+      "title": "东南大学2027年硕士研究生招生章程",
+      "url": "https://yzb.seu.edu.cn/2026/1008/c6676a585158/page.htm"
     },
     {
       "type": "updated",
@@ -92,6 +100,14 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "湖南大学",
       "unit": "设计艺术学院",
       "title": "公告",
@@ -100,10 +116,26 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
       "school": "华南理工大学",
-      "unit": "建筑学院",
-      "title": "建筑学院",
-      "url": "https://www2.scut.edu.cn/architecture/"
+      "unit": "设计学院",
+      "title": "华南理工大学2027年全国硕士研究生招生考试网报公告",
+      "url": "https://yz.scut.edu.cn/2026/1008/c30108a636991/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "设计学院",
+      "title": "华南理工大学2027年全国硕士研究生招生考试网报公告",
+      "url": "https://yz.scut.edu.cn/2026/1008/c30111a636991/page.htm"
     },
     {
       "type": "updated",
@@ -124,18 +156,26 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "西安交通大学",
-      "unit": "人居环境与建筑工程学院",
-      "title": "人居环境与建筑工程学院",
-      "url": "https://hsce.xjtu.edu.cn/"
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学研究生招生信息网",
+      "url": "https://yz.nwafu.edu.cn/"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "西北工业大学",
-      "unit": "机电学院工业设计",
-      "title": "西北工业大学2027年硕士研究生招生简章-研究生招生信息网",
-      "url": "https://yzb.nwpu.edu.cn/info/1174/10498.htm"
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "2027年全国硕士研究生招生考试西北农林科技大学考点（6115）公告",
+      "url": "https://yz.nwafu.edu.cn/tzgg/1fd8c6cba411485f9fadeeabdc6570c0.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学（10712）2027年全国硕士研究生招生考试网上报名须知",
+      "url": "https://yz.nwafu.edu.cn/tzgg/6bc820a8419c4ecb82e828071a2b8693.htm"
     },
     {
       "type": "updated",
@@ -146,68 +186,36 @@
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
     },
     {
-      "type": "updated",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "研途起航 逐梦工大 | 北京工业大学2027年研究生招生宣传咨询专场活动邀你参加-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18108.htm"
-    },
-    {
       "type": "new",
       "tier": "211",
       "school": "北京工业大学",
       "unit": "艺术设计学院",
-      "title": "北京工业大学2027年硕士研究生招生章程-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18192.htm"
+      "title": "2027全国硕士研究生招生考试（初试）北京工业大学（1105）报考点公告-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18199.htm"
     },
     {
       "type": "new",
       "tier": "211",
       "school": "北京工业大学",
       "unit": "艺术设计学院",
-      "title": "北京工业大学2027年全日制硕士研究生招生学科专业目录-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18194.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "建筑与城市规划学院",
-      "title": "北京工业大学2027年非全日制硕士研究生招生专业目录-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18196.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "北京工业大学2027年硕士研究生招生章程-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1707/18191.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "北京工业大学2027年全日制硕士研究生招生学科专业目录-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1708/18193.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "建筑与城市规划学院",
-      "title": "北京工业大学2027年非全日制硕士研究生招生专业目录-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1708/18195.htm"
+      "title": "2027全国硕士研究生招生考试（初试）北京工业大学（1105）报考点公告-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1025/18197.htm"
     },
     {
       "type": "updated",
       "tier": "211",
-      "school": "北京林业大学",
-      "unit": "艺术设计学院",
-      "title": "艺术设计学院",
-      "url": "https://ad.bjfu.edu.cn/"
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "",
+      "url": "https://yz.jiangnan.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "江南大学2027年硕士研究生招生简章-江南大学研究生招生信息网",
+      "url": "https://yz.jiangnan.edu.cn/info/1029/3885.htm"
     },
     {
       "type": "updated",
