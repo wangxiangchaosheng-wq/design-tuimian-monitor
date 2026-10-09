@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 05:41",
+  "generated_at": "2026-10-09 14:33",
   "changes": [
     {
       "type": "updated",
@@ -12,18 +12,10 @@
     {
       "type": "new",
       "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
+      "school": "北京师范大学",
+      "unit": "艺术与传媒学院",
+      "title": "北京师范大学研究生招生网",
+      "url": "https://yz.bnu.edu.cn/detail/77329e2e-0733-4b15-b085-104a7e5f5028"
     },
     {
       "type": "updated",
@@ -34,28 +26,12 @@
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
       "school": "吉林大学",
       "unit": "艺术学院",
       "title": "吉林大学艺术学院",
       "url": "https://art.jlu.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "吉林大学",
-      "unit": "艺术学院",
-      "title": "吉林大学艺术学院接收2027年推荐免试攻读硕士研究生复试成绩公示",
-      "url": "https://art.jlu.edu.cn/info/1039/5805.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "吉林大学",
-      "unit": "艺术学院",
-      "title": "艺术学院2027年接收推荐免试攻读硕士研究生复试名单公示",
-      "url": "https://art.jlu.edu.cn/info/1039/5795.htm"
     },
     {
       "type": "updated",
@@ -82,12 +58,44 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "厦门大学",
+      "unit": "创意与创新学院",
+      "title": "厦门大学2027年硕士研究生招生考试初试科目业务课考试内容范围说明-厦门大学招生网",
+      "url": "https://zs.xmu.edu.cn/info/1174/37042.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "厦门大学",
+      "unit": "创意与创新学院",
+      "title": "厦门大学2027年硕士研究生招生考试初试科目业务课考试内容范围说明-厦门大学招生网",
+      "url": "https://zs.xmu.edu.cn/info/1055/37032.htm"
+    },
+    {
       "type": "updated",
       "tier": "985",
-      "school": "四川大学",
-      "unit": "艺术学院",
-      "title": "四川大学2027年各招生院系所接收优秀应届本科毕业生免试攻读研究生（含直博生）的通知_四川大学研究生招生信息网",
-      "url": "https://yz.scu.edu.cn/zsxx/Details/08ab7f58-bed0-4f46-a317-95122e6ea1fd"
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "2027年全国硕士研究生招生考试西北农林科技大学考点（6115）公告",
+      "url": "https://yz.nwafu.edu.cn/tzgg/1fd8c6cba411485f9fadeeabdc6570c0.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学风景园林艺术学院",
+      "url": "https://ylxy.nwafu.edu.cn/"
     },
     {
       "type": "updated",
