@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 07:55",
+  "generated_at": "2026-10-11 14:07",
   "changes": [
     {
       "type": "updated",
@@ -8,22 +8,6 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
     },
     {
       "type": "updated",
@@ -58,12 +42,12 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院关于调整2027年招收攻读硕士学位研究生统考初试自命题科目的公告",
-      "url": "https://sud.whu.edu.cn/info/1521/50951.htm"
+      "school": "四川大学",
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
     },
     {
       "type": "updated",
