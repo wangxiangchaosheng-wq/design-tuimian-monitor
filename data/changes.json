@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 14:07",
+  "generated_at": "2026-10-11 23:17",
   "changes": [
     {
       "type": "updated",
@@ -44,10 +44,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "四川大学",
-      "unit": "建筑与环境学院",
-      "title": "四川大学建筑与环境学院—官网",
-      "url": "https://acem.scu.edu.cn/"
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "城市设计学院2027年接收推荐免试硕士研究生拟录取名单公示",
+      "url": "https://sud.whu.edu.cn/info/1511/51711.htm"
     },
     {
       "type": "updated",
