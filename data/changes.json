@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 02:13",
+  "generated_at": "2026-10-13 10:24",
   "changes": [
     {
       "type": "updated",
@@ -28,18 +28,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "东北大学",
-      "unit": "艺术学院",
-      "title": "东北大学2027年接收推荐免试研究生工作办法",
-      "url": "https://yz.neu.edu.cn/2026/0720/c5932a458191/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "上海交通大学",
       "unit": "设计学院",
       "title": "上海交通大学2027年硕士研究生招生专业目录（校本部） - 上海交通大学研究生招生网",
       "url": "https://yzb.sjtu.edu.cn/post/3772"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "艺术学院",
+      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生考核结果",
+      "url": "https://arts.seu.edu.cn/2026/0920/c17236a583868/page.htm"
     },
     {
       "type": "updated",
@@ -52,50 +52,10 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "东南大学",
-      "unit": "建筑学院",
-      "title": "相关学科单位",
-      "url": "https://arch.seu.edu.cn/9126/list.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院关于调整2027年招收攻读硕士学位研究生统考初试自命题科目的公告",
-      "url": "https://sud.whu.edu.cn/info/1521/50951.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院2026年接收优秀应届本科毕业生推荐免试攻读研究生工作实施细则",
-      "url": "https://sud.whu.edu.cn/info/1521/47071.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "华南理工大学",
       "unit": "设计学院",
-      "title": "华南理工大学2027年硕士研究生招生章程及招生专业目录",
-      "url": "https://yz.scut.edu.cn/2026/0930/c30108a636831/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华南理工大学",
-      "unit": "设计学院",
-      "title": "华南理工大学2027年硕士研究生招生章程及招生专业目录",
-      "url": "https://yz.scut.edu.cn/2026/0930/c30111a636831/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "四川大学",
-      "unit": "艺术学院",
-      "title": "新闻动态 See all",
-      "url": "https://art.scu.edu.cn/"
+      "title": "设计学院",
+      "url": "https://www2.scut.edu.cn/design/"
     },
     {
       "type": "updated",
@@ -104,38 +64,6 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "北京工业大学2027年硕士研究生招生章程-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1019/18192.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "北京工业大学",
-      "unit": "艺术设计学院",
-      "title": "北京工业大学2027年硕士研究生招生章程-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1707/18191.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "北京林业大学",
-      "unit": "艺术设计学院",
-      "title": "艺术设计学院",
-      "url": "https://ad.bjfu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "福州大学",
-      "unit": "厦门工艺美术学院",
-      "title": "福州大学厦门工艺美术学院",
-      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
