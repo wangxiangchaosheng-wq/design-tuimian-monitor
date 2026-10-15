@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15 12:59",
+  "generated_at": "2026-10-15 21:49",
   "changes": [
     {
       "type": "updated",
@@ -28,22 +28,6 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "吉林大学",
-      "unit": "艺术学院",
-      "title": "吉林大学艺术学院",
-      "url": "https://art.jlu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "哈尔滨工业大学",
-      "unit": "建筑与设计学院",
-      "title": "研招办",
-      "url": "https://yzb.hit.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
       "school": "上海交通大学",
       "unit": "媒体与传播学院",
       "title": "上海交通大学2027年全日制硕士研究生统考分专业招生计划表（校本部） - 上海交通大学研究生招生网",
@@ -66,28 +50,28 @@
       "url": "https://sud.whu.edu.cn/"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院2027年设计专业硕士（全日制）报考指南",
-      "url": "https://sud.whu.edu.cn/info/1521/51781.htm"
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
     },
     {
       "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院2027年接收优秀应届本科毕业生推荐免试攻读研究生工作实施细则",
-      "url": "https://sud.whu.edu.cn/info/1521/51451.htm"
+      "school": "西安交通大学",
+      "unit": "人居环境与建筑工程学院",
+      "title": "人居环境与建筑工程学院",
+      "url": "https://hsce.xjtu.edu.cn/"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "城市设计学院2027年接收攻读硕士学位推免生预报名的通知",
-      "url": "https://sud.whu.edu.cn/info/1521/51191.htm"
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学研究生招生信息网",
+      "url": "https://yz.nwafu.edu.cn/"
     },
     {
       "type": "updated",
