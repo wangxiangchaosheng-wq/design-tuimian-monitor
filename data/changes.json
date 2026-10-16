@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 12:52",
+  "generated_at": "2026-10-16 21:38",
   "changes": [
     {
       "type": "updated",
@@ -42,36 +42,52 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
       "school": "武汉大学",
       "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院",
-      "url": "https://sud.whu.edu.cn/"
+      "title": "城市设计学院2027年接收攻读硕士学位推免生预报名的通知",
+      "url": "https://sud.whu.edu.cn/info/1521/51191.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院",
+      "url": "https://aup.hust.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "中南大学",
-      "unit": "建筑与艺术学院",
-      "title": "建筑与艺术学院关于2027年硕士研究生招生考试自命题科目非常规工具及考试用纸的公告-建筑与艺术学院门户网站",
-      "url": "https://art.csu.edu.cn/info/1060/5177.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "中南大学",
-      "unit": "建筑与艺术学院",
-      "title": "中南大学2027年硕士研究生入学考试建筑与艺术学院考试大纲-建筑与艺术学院门户网站",
-      "url": "https://art.csu.edu.cn/info/1060/5175.htm"
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "亚热带建筑与城市科学全国重点实验室2027年度开放课题申请指南",
+      "url": "https://www2.scut.edu.cn/architecture/2026/1016/c35204a637916/page.htm"
     },
     {
       "type": "updated",
       "tier": "985",
       "school": "四川大学",
-      "unit": "艺术学院",
-      "title": "新闻动态 See all",
-      "url": "https://art.scu.edu.cn/"
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学研究生招生信息网",
+      "url": "https://yz.nwafu.edu.cn/"
     },
     {
       "type": "updated",
@@ -82,12 +98,28 @@
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
     },
     {
+      "type": "new",
+      "tier": "211",
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "北京工业大学2027年硕士研究生招生考试自命题科目考试大纲-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18207.htm"
+    },
+    {
       "type": "updated",
       "tier": "211",
       "school": "北京工业大学",
       "unit": "艺术设计学院",
-      "title": "2027全国硕士研究生招生考试（初试）北京工业大学（1105）报考点公告-北京工业大学研究生招生网",
-      "url": "https://yanzhao.bjut.edu.cn/info/1025/18197.htm"
+      "title": "北京工业大学2027年推荐免试攻读研究生拟录取名单公示-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18201.htm"
+    },
+    {
+      "type": "new",
+      "tier": "211",
+      "school": "北京工业大学",
+      "unit": "艺术设计学院",
+      "title": "北京工业大学2027年硕士研究生招生考试自命题科目考试大纲-北京工业大学研究生招生网",
+      "url": "https://yanzhao.bjut.edu.cn/info/1025/18206.htm"
     }
   ]
 }
