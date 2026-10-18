@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 20:58",
+  "generated_at": "2026-10-19 02:58",
   "changes": [
     {
       "type": "updated",
@@ -44,10 +44,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "西安交通大学",
-      "unit": "人居环境与建筑工程学院",
-      "title": "人居环境与建筑工程学院",
-      "url": "https://hsce.xjtu.edu.cn/"
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学研究生招生信息网",
+      "url": "https://yz.nwafu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "2027年招收推免生拟录取名单公示",
+      "url": "https://yz.nwafu.edu.cn/xxgk/7f4901e922dc4e889de1e537d866a045.htm"
     },
     {
       "type": "updated",
