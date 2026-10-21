@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 13:09",
+  "generated_at": "2026-10-21 22:11",
   "changes": [
     {
       "type": "updated",
@@ -12,10 +12,26 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "北京师范大学",
       "unit": "艺术与传媒学院",
       "title": "北京师范大学研究生招生网",
       "url": "https://yz.bnu.edu.cn/detail/77329e2e-0733-4b15-b085-104a7e5f5028"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "天津大学",
+      "unit": "建筑学院",
+      "title": "天津大学研究生招生网",
+      "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/202610/t20261019_324756.htm"
     },
     {
       "type": "updated",
@@ -42,52 +58,36 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院关于调整2027年招收攻读硕士学位研究生统考初试自命题科目的公告",
-      "url": "https://sud.whu.edu.cn/info/1521/50951.htm"
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "相关学科单位",
+      "url": "https://arch.seu.edu.cn/9126/list.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院2026年接收优秀应届本科毕业生推荐免试攻读研究生工作实施细则",
-      "url": "https://sud.whu.edu.cn/info/1521/47071.htm"
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
       "school": "武汉大学",
       "unit": "城市设计学院",
-      "title": "城市设计学院关于2026年推免生预报名的通知",
-      "url": "https://sud.whu.edu.cn/info/1521/46861.htm"
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院2025年接收推荐免试硕士研究生工作实施细则",
-      "url": "https://sud.whu.edu.cn/info/1521/42431.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院2024年接收推荐免试硕士研究生工作实施细则",
-      "url": "https://sud.whu.edu.cn/info/1521/13761.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院2024年接收推荐免试 硕士研究生预报名的通知",
-      "url": "https://sud.whu.edu.cn/info/1521/13751.htm"
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院",
+      "url": "https://aup.hust.edu.cn/"
     },
     {
       "type": "updated",
@@ -120,22 +120,6 @@
       "unit": "艺术设计学院",
       "title": "北京工业大学2027年硕士研究生招生考试自命题科目考试大纲-北京工业大学研究生招生网",
       "url": "https://yanzhao.bjut.edu.cn/info/1025/18206.htm"
-    },
-    {
-      "type": "new",
-      "tier": "211",
-      "school": "暨南大学",
-      "unit": "艺术学院",
-      "title": "2027年暨南大学接收推免生情况及统考指标一览表",
-      "url": "https://yz.jnu.edu.cn/2026/1021/c33059a865060/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "福州大学",
-      "unit": "厦门工艺美术学院",
-      "title": "福州大学厦门工艺美术学院",
-      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
