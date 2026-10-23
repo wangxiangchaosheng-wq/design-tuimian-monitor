@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23 13:09",
+  "generated_at": "2026-10-23 21:46",
   "changes": [
     {
       "type": "updated",
@@ -42,44 +42,60 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
-      "school": "武汉大学",
-      "unit": "城市设计学院",
-      "title": "武汉大学城市设计学院",
-      "url": "https://sud.whu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "湖南大学",
-      "unit": "设计艺术学院",
-      "title": "湖南大学建筑与规划学院",
-      "url": "https://arch.hnu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华南理工大学",
-      "unit": "设计学院",
-      "title": "设计学院",
-      "url": "https://www2.scut.edu.cn/design/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华南理工大学",
+      "school": "东南大学",
       "unit": "建筑学院",
-      "title": "建筑学院",
-      "url": "https://www2.scut.edu.cn/architecture/"
+      "title": "相关学科单位",
+      "url": "https://arch.seu.edu.cn/9126/list.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "建筑学院2027年接收推荐免试研究生考核结果",
+      "url": "https://arch.seu.edu.cn/2026/0905/c9126a581667/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "东南大学建筑学院2027年接收推荐免试研究生考核入选名单",
+      "url": "https://arch.seu.edu.cn/2026/0807/c9126a578929/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "东南大学建筑学院2027年接收推荐免试研究生报名通知",
+      "url": "https://arch.seu.edu.cn/2026/0708/c9126a575976/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "东南大学",
+      "unit": "建筑学院",
+      "title": "关于 2026-2027 学年建筑类学位评定分委员会 会议召开时间安排的通知",
+      "url": "https://arch.seu.edu.cn/2026/0609/c9126a570732/page.htm"
     },
     {
       "type": "updated",
       "tier": "985",
-      "school": "西北农林科技大学",
-      "unit": "风景园林艺术学院",
-      "title": "西北农林科技大学研究生招生信息网",
-      "url": "https://yz.nwafu.edu.cn/"
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "建筑与土木工程学院2026-2027学年第一学期本科生转专业工作细则及接收转专业工作方案-厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/info/1038/19874.htm"
     },
     {
       "type": "updated",
