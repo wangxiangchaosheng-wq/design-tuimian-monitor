@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 13:08",
+  "generated_at": "2026-10-26 23:33",
   "changes": [
     {
       "type": "updated",
@@ -16,14 +16,6 @@
       "unit": "艺术与传媒学院",
       "title": "北京师范大学研究生招生网",
       "url": "https://yz.bnu.edu.cn/detail/77329e2e-0733-4b15-b085-104a7e5f5028"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "天津大学",
-      "unit": "建筑学院",
-      "title": "天津大学研究生招生网",
-      "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/202610/t20261026_324807.htm"
     },
     {
       "type": "updated",
@@ -51,6 +43,38 @@
     },
     {
       "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "关于2026-2027学年“太阳慈善公益奖学金”评选结果的公示-湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/info/1118/5898.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "中南大学",
+      "unit": "建筑与艺术学院",
+      "title": "建筑与艺术学院门户网站",
+      "url": "https://art.csu.edu.cn/"
+    },
+    {
+      "type": "updated",
       "tier": "211",
       "school": "华东理工大学",
       "unit": "艺术设计与传媒学院",
@@ -60,34 +84,10 @@
     {
       "type": "updated",
       "tier": "211",
-      "school": "北京林业大学",
-      "unit": "园林学院",
-      "title": "",
-      "url": "https://sola.bjfu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "江南大学",
-      "unit": "设计学院",
-      "title": "江南大学设计学院",
-      "url": "https://sodcn.jiangnan.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
       "school": "苏州大学",
       "unit": "金螳螂建筑学院",
       "title": "学院新闻",
       "url": "https://arch.suda.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "福州大学",
-      "unit": "厦门工艺美术学院",
-      "title": "福州大学厦门工艺美术学院",
-      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
