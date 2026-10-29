@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29 23:33",
+  "generated_at": "2026-10-30 05:29",
   "changes": [
     {
       "type": "updated",
@@ -36,18 +36,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "东南大学",
-      "unit": "艺术学院",
-      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
-      "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "世界",
+      "url": "https://designschool.sjtu.edu.cn/"
     },
     {
       "type": "updated",
       "tier": "985",
-      "school": "四川大学",
-      "unit": "建筑与环境学院",
-      "title": "四川大学建筑与环境学院—官网",
-      "url": "https://acem.scu.edu.cn/"
+      "school": "东南大学",
+      "unit": "艺术学院",
+      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
+      "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
       "type": "updated",
@@ -56,14 +56,6 @@
       "unit": "艺术设计与传媒学院",
       "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
       "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "苏州大学",
-      "unit": "金螳螂建筑学院",
-      "title": "学院新闻",
-      "url": "https://arch.suda.edu.cn/"
     }
   ]
 }
