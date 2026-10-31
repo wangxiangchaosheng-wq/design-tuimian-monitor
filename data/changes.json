@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 14:00",
+  "generated_at": "2026-10-31 22:53",
   "changes": [
     {
       "type": "updated",
@@ -28,10 +28,26 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "吉林大学艺术学院",
+      "url": "https://art.jlu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "上海交通大学",
       "unit": "媒体与传播学院",
       "title": "上海交通大学2027年全日制硕士研究生统考分专业招生计划表（校本部） - 上海交通大学研究生招生网",
       "url": "https://yzb.sjtu.edu.cn/post/3808"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "世界",
+      "url": "https://designschool.sjtu.edu.cn/"
     },
     {
       "type": "updated",
@@ -42,28 +58,20 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
-      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
       "school": "华中科技大学",
       "unit": "建筑与城市规划学院",
       "title": "建筑与城市规划学院",
       "url": "https://aup.hust.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
-      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
     },
     {
       "type": "updated",
