@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 05:10",
+  "generated_at": "2026-10-31 14:00",
   "changes": [
     {
       "type": "updated",
@@ -36,14 +36,6 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "世界",
-      "url": "https://designschool.sjtu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "东南大学",
       "unit": "艺术学院",
       "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
@@ -52,58 +44,26 @@
     {
       "type": "new",
       "tier": "985",
-      "school": "厦门大学",
-      "unit": "创意与创新学院",
-      "title": "厦门大学2027年硕士研究生招生考试初试科目业务课考试内容范围说明-厦门大学招生网",
-      "url": "https://zs.xmu.edu.cn/info/1174/37042.htm"
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
+      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "厦门大学",
-      "unit": "创意与创新学院",
-      "title": "厦门大学2027年硕士研究生招生考试初试科目业务课考试内容范围说明-厦门大学招生网",
-      "url": "https://zs.xmu.edu.cn/info/1055/37032.htm"
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院",
+      "url": "https://aup.hust.edu.cn/"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "厦门大学",
-      "unit": "建筑与土木工程学院",
-      "title": "厦门大学建筑与土木工程学院",
-      "url": "https://archt.xmu.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "厦门大学",
-      "unit": "建筑与土木工程学院",
-      "title": "建筑与土木工程学院2026-2027学年第一学期本科生转专业工作细则及接收转专业工作方案-厦门大学建筑与土木工程学院",
-      "url": "https://archt.xmu.edu.cn/info/1038/19874.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "厦门大学",
-      "unit": "建筑与土木工程学院",
-      "title": "建筑与土木工程学院关于组织开展2026-2027学年评优工作（本科生）的通知-厦门大学建筑与土木工程学院",
-      "url": "https://archt.xmu.edu.cn/info/1039/19974.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "厦门大学",
-      "unit": "建筑与土木工程学院",
-      "title": "建筑与土木工程学院关于“土木工程+法学”双学士学位项目2026-2027学年第一学期选拔拟录取学生名单的公示-厦门大学建筑与土木工程学院",
-      "url": "https://archt.xmu.edu.cn/info/1043/19374.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "湖南大学",
-      "unit": "设计艺术学院",
-      "title": "湖南大学建筑与规划学院",
-      "url": "https://arch.hnu.edu.cn/"
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
+      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
     },
     {
       "type": "updated",
