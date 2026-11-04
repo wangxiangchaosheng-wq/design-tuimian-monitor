@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 08:57",
+  "generated_at": "2026-11-04 20:31",
   "changes": [
     {
       "type": "updated",
@@ -28,6 +28,14 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "吉林大学艺术学院",
+      "url": "https://art.jlu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "上海交通大学",
       "unit": "媒体与传播学院",
       "title": "上海交通大学2027年全日制硕士研究生统考分专业招生计划表（校本部） - 上海交通大学研究生招生网",
@@ -43,11 +51,59 @@
     },
     {
       "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "城市设计学院2027年普通招考攻读博士学位研究生招生工作实施细则",
+      "url": "https://sud.whu.edu.cn/info/1521/52251.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院2027年接收优秀应届本科毕业生推荐免试攻读研究生工作实施细则",
+      "url": "https://sud.whu.edu.cn/info/1521/51451.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "中南大学",
+      "unit": "建筑与艺术学院",
+      "title": "建筑与艺术学院门户网站",
+      "url": "https://art.csu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
       "tier": "211",
-      "school": "华东理工大学",
-      "unit": "艺术设计与传媒学院",
-      "title": "华东理工大学2027年接收外校推荐免试研究生（含直博生）预报名通知",
-      "url": "https://gschool.ecust.edu.cn/2026/0720/c12754a192317/page.htm"
+      "school": "北京林业大学",
+      "unit": "园林学院",
+      "title": "",
+      "url": "https://sola.bjfu.edu.cn/"
     }
   ]
 }
