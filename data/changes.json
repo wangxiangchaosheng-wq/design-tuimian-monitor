@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 09:15",
+  "generated_at": "2026-11-05 20:41",
   "changes": [
     {
       "type": "updated",
@@ -28,6 +28,22 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "吉林大学艺术学院",
+      "url": "https://art.jlu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "吉林大学艺术学院接收2027年推荐免试攻读硕士研究生复试拟录取名单公示",
+      "url": "https://art.jlu.edu.cn/info/1039/5829.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "上海交通大学",
       "unit": "媒体与传播学院",
       "title": "上海交通大学2027年全日制硕士研究生统考分专业招生计划表（校本部） - 上海交通大学研究生招生网",
@@ -44,10 +60,50 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "华南理工大学",
-      "unit": "建筑学院",
-      "title": "建筑学院",
-      "url": "https://www2.scut.edu.cn/architecture/"
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "中南大学",
+      "unit": "建筑与艺术学院",
+      "title": "建筑与艺术学院门户网站",
+      "url": "https://art.csu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学风景园林艺术学院",
+      "url": "https://ylxy.nwafu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
