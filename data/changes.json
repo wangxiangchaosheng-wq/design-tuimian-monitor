@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 06:18",
+  "generated_at": "2026-11-06 15:05",
   "changes": [
     {
       "type": "updated",
@@ -8,6 +8,22 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/zs/tz2/50d17916b23a4487bb154b1bfa365d4a.htm"
     },
     {
       "type": "updated",
@@ -28,18 +44,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "上海交通大学",
-      "unit": "媒体与传播学院",
-      "title": "上海交通大学2027年全日制硕士研究生统考分专业招生计划表（校本部） - 上海交通大学研究生招生网",
-      "url": "https://yzb.sjtu.edu.cn/post/3808"
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "研招办",
+      "url": "https://yzb.hit.edu.cn/"
     },
     {
       "type": "updated",
       "tier": "985",
       "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "世界",
-      "url": "https://designschool.sjtu.edu.cn/"
+      "unit": "媒体与传播学院",
+      "title": "上海交通大学2027年全日制硕士研究生统考分专业招生计划表（校本部） - 上海交通大学研究生招生网",
+      "url": "https://yzb.sjtu.edu.cn/post/3808"
     },
     {
       "type": "updated",
@@ -51,11 +67,35 @@
     },
     {
       "type": "updated",
+      "tier": "985",
+      "school": "西安交通大学",
+      "unit": "人居环境与建筑工程学院",
+      "title": "人居环境与建筑工程学院",
+      "url": "https://hsce.xjtu.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "西安交通大学",
+      "unit": "人居环境与建筑工程学院",
+      "title": "人居学院2027年博士生资格考核工作安排-人居环境与建筑工程学院",
+      "url": "https://hsce.xjtu.edu.cn/info/1014/14675.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学风景园林艺术学院",
+      "url": "https://ylxy.nwafu.edu.cn/"
+    },
+    {
+      "type": "updated",
       "tier": "211",
-      "school": "苏州大学",
-      "unit": "金螳螂建筑学院",
-      "title": "学院新闻",
-      "url": "https://arch.suda.edu.cn/"
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
