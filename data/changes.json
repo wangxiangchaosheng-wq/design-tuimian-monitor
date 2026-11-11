@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 14:42",
+  "generated_at": "2026-11-12 00:33",
   "changes": [
     {
       "type": "updated",
@@ -50,44 +50,20 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "updated",
+      "type": "new",
       "tier": "985",
-      "school": "厦门大学",
-      "unit": "建筑与土木工程学院",
-      "title": "厦门大学建筑与土木工程学院",
-      "url": "https://archt.xmu.edu.cn/"
+      "school": "四川大学",
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
-      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "华南理工大学",
-      "unit": "设计学院",
-      "title": "设计学院",
-      "url": "https://www2.scut.edu.cn/design/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "西安交通大学",
-      "unit": "人居环境与建筑工程学院",
-      "title": "人居环境与建筑工程学院",
-      "url": "https://hsce.xjtu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "西北农林科技大学",
       "unit": "风景园林艺术学院",
-      "title": "西北农林科技大学研究生招生信息网",
-      "url": "https://yz.nwafu.edu.cn/"
+      "title": "西北农林科技大学风景园林艺术学院",
+      "url": "https://ylxy.nwafu.edu.cn/"
     },
     {
       "type": "updated",
