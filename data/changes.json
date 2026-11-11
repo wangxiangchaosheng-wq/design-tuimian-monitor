@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 00:33",
+  "generated_at": "2026-11-12 07:03",
   "changes": [
     {
       "type": "updated",
@@ -36,14 +36,6 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "世界",
-      "url": "https://designschool.sjtu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "东南大学",
       "unit": "艺术学院",
       "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
@@ -52,18 +44,26 @@
     {
       "type": "new",
       "tier": "985",
-      "school": "四川大学",
-      "unit": "建筑与环境学院",
-      "title": "四川大学建筑与环境学院—官网",
-      "url": "https://acem.scu.edu.cn/"
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
+      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
     },
     {
       "type": "new",
       "tier": "985",
-      "school": "西北农林科技大学",
-      "unit": "风景园林艺术学院",
-      "title": "西北农林科技大学风景园林艺术学院",
-      "url": "https://ylxy.nwafu.edu.cn/"
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院",
+      "url": "https://aup.hust.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
+      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
     },
     {
       "type": "updated",
