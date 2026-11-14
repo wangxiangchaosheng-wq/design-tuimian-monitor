@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 19:50",
+  "generated_at": "2026-11-15 02:22",
   "changes": [
     {
       "type": "updated",
@@ -8,30 +8,6 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/tz2/50d17916b23a4487bb154b1bfa365d4a.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "北京理工大学",
-      "unit": "设计与艺术学院",
-      "title": "北京理工大学设计与艺术学院",
-      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
     },
     {
       "type": "updated",
@@ -60,26 +36,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "东南大学",
-      "unit": "艺术学院",
-      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
-      "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "世界",
+      "url": "https://designschool.sjtu.edu.cn/"
     },
     {
       "type": "updated",
       "tier": "985",
-      "school": "厦门大学",
-      "unit": "建筑与土木工程学院",
-      "title": "厦门大学建筑与土木工程学院",
-      "url": "https://archt.xmu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "暨南大学",
+      "school": "东南大学",
       "unit": "艺术学院",
-      "title": "2027年暨南大学接收推免生情况及统考指标一览表",
-      "url": "https://yz.jnu.edu.cn/2026/1021/c33059a865060/page.htm"
+      "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
+      "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     }
   ]
 }
