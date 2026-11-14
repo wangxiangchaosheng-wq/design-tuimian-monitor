@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 09:13",
+  "generated_at": "2026-11-14 19:50",
   "changes": [
     {
       "type": "updated",
@@ -8,6 +8,30 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/zs/tz2/50d17916b23a4487bb154b1bfa365d4a.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
     },
     {
       "type": "updated",
@@ -42,28 +66,12 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
-      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院",
-      "url": "https://aup.hust.edu.cn/"
-    },
-    {
-      "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
-      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/"
     },
     {
       "type": "updated",
