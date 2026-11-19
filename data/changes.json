@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19 10:17",
+  "generated_at": "2026-11-19 21:26",
   "changes": [
     {
       "type": "updated",
@@ -42,28 +42,28 @@
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
     },
     {
-      "type": "new",
+      "type": "updated",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "华中科技大学关于开展2027年接收推荐免试研究生（含直博生）预报名及复试工作安排的通知",
-      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm"
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
     },
     {
       "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院",
-      "url": "https://aup.hust.edu.cn/"
+      "tier": "211",
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/"
     },
     {
       "type": "new",
-      "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院关于2027届研究生支教团成员候选人推荐名单公示",
-      "url": "https://aup.hust.edu.cn/info/1076/5282.htm"
+      "tier": "211",
+      "school": "福州大学",
+      "unit": "厦门工艺美术学院",
+      "title": "“留厦来” 福州大学厦门工艺美术学院 2027届毕业生秋季校园招聘会邀请函-福州大学厦门工艺美术学院",
+      "url": "https://art.fzu.edu.cn/info/1304/10794.htm"
     }
   ]
 }
