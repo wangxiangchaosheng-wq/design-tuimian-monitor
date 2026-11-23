@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23 06:15",
+  "generated_at": "2026-11-23 16:07",
   "changes": [
     {
       "type": "updated",
@@ -12,10 +12,26 @@
     {
       "type": "updated",
       "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
       "school": "北京师范大学",
       "unit": "艺术与传媒学院",
       "title": "北京师范大学研究生招生网",
       "url": "https://yz.bnu.edu.cn/detail/77329e2e-0733-4b15-b085-104a7e5f5028"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "天津大学",
+      "unit": "建筑学院",
+      "title": "天津大学研究生招生网",
+      "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/202610/t20261026_324807.htm"
     },
     {
       "type": "updated",
@@ -34,12 +50,28 @@
       "url": "https://yzb.sjtu.edu.cn/post/3808"
     },
     {
+      "type": "updated",
+      "tier": "985",
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "世界",
+      "url": "https://designschool.sjtu.edu.cn/"
+    },
+    {
       "type": "new",
       "tier": "985",
-      "school": "华东师范大学",
+      "school": "上海交通大学",
       "unit": "设计学院",
-      "title": "华东师范大学2027年各院系接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知（陆续更新）",
-      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      "title": "新闻与事件",
+      "url": "https://designschool.sjtu.edu.cn/dynamic/notice/detail/6b039165db5752122481d7d6"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "上海交通大学",
+      "unit": "设计学院",
+      "title": "新闻与事件",
+      "url": "https://designschool.sjtu.edu.cn/dynamic/notice/detail/6b039080db57521224810e9e"
     },
     {
       "type": "updated",
@@ -48,6 +80,62 @@
       "unit": "艺术学院",
       "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "城市设计学院2027年普通招考攻读博士学位研究生招生工作实施细则",
+      "url": "https://sud.whu.edu.cn/info/1521/52251.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "华中科技大学",
+      "unit": "建筑与城市规划学院",
+      "title": "建筑与城市规划学院",
+      "url": "https://aup.hust.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西安交通大学",
+      "unit": "人居环境与建筑工程学院",
+      "title": "人居环境与建筑工程学院",
+      "url": "https://hsce.xjtu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学风景园林艺术学院",
+      "url": "https://ylxy.nwafu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "211",
+      "school": "江南大学",
+      "unit": "设计学院",
+      "title": "江南大学设计学院",
+      "url": "https://sodcn.jiangnan.edu.cn/"
     }
   ]
 }
