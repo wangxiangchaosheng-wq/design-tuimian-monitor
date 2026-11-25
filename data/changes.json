@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25 03:52",
+  "generated_at": "2026-11-25 11:55",
   "changes": [
     {
       "type": "updated",
@@ -8,6 +8,22 @@
       "unit": "深圳国际研究生院",
       "title": "清华大学深圳国际研究生院2027年接收优秀应届本科毕业生免试攻读研究生报名通知",
       "url": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "北京理工大学",
+      "unit": "设计与艺术学院",
+      "title": "北京理工大学设计与艺术学院",
+      "url": "https://design.bit.edu.cn/zs/zsxx/c0015f5633474c8db58c37f33d9cbc3c.htm"
     },
     {
       "type": "updated",
@@ -26,20 +42,20 @@
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "吉林大学",
+      "unit": "艺术学院",
+      "title": "吉林大学艺术学院接收2027年推荐免试攻读硕士研究生复试拟录取名单公示",
+      "url": "https://art.jlu.edu.cn/info/1039/5829.htm"
+    },
+    {
       "type": "updated",
       "tier": "985",
       "school": "上海交通大学",
       "unit": "媒体与传播学院",
       "title": "上海交通大学2027年全日制硕士研究生统考分专业招生计划表（校本部） - 上海交通大学研究生招生网",
       "url": "https://yzb.sjtu.edu.cn/post/3808"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "世界",
-      "url": "https://designschool.sjtu.edu.cn/"
     },
     {
       "type": "updated",
@@ -52,18 +68,18 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "华中科技大学",
-      "unit": "建筑与城市规划学院",
-      "title": "建筑与城市规划学院",
-      "url": "https://aup.hust.edu.cn/"
+      "school": "华南理工大学",
+      "unit": "设计学院",
+      "title": "设计学院",
+      "url": "https://www2.scut.edu.cn/design/"
     },
     {
       "type": "updated",
       "tier": "985",
-      "school": "湖南大学",
-      "unit": "设计艺术学院",
-      "title": "湖南大学建筑与规划学院",
-      "url": "https://arch.hnu.edu.cn/"
+      "school": "华南理工大学",
+      "unit": "建筑学院",
+      "title": "建筑学院",
+      "url": "https://www2.scut.edu.cn/architecture/"
     },
     {
       "type": "updated",
@@ -72,38 +88,6 @@
       "unit": "建筑与环境学院",
       "title": "四川大学建筑与环境学院—官网",
       "url": "https://acem.scu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
-      "school": "西北农林科技大学",
-      "unit": "风景园林艺术学院",
-      "title": "西北农林科技大学风景园林艺术学院",
-      "url": "https://ylxy.nwafu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "北京林业大学",
-      "unit": "园林学院",
-      "title": "",
-      "url": "https://sola.bjfu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "江南大学",
-      "unit": "设计学院",
-      "title": "",
-      "url": "https://yz.jiangnan.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "211",
-      "school": "福州大学",
-      "unit": "厦门工艺美术学院",
-      "title": "福州大学厦门工艺美术学院",
-      "url": "https://art.fzu.edu.cn/"
     }
   ]
 }
