@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 08:58",
+  "generated_at": "2026-11-27 22:14",
   "changes": [
     {
       "type": "updated",
@@ -26,6 +26,38 @@
       "url": "https://arch.tju.edu.cn/info/1218/7491.htm"
     },
     {
+      "type": "new",
+      "tier": "985",
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "哈尔滨工业大学|建筑与设计学院",
+      "url": "https://arch.hit.edu.cn/"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "关于公布建筑与设计学院2027年秋季博士生招生考核成绩及拟录取名单的通知",
+      "url": "https://arch.hit.edu.cn/2026/1104/c11953a405111/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "关于公布建筑与设计学院2027年博士研究生秋季招生材料学术水平审核结果的通知",
+      "url": "https://arch.hit.edu.cn/2026/1021/c11953a403105/page.htm"
+    },
+    {
+      "type": "new",
+      "tier": "985",
+      "school": "哈尔滨工业大学",
+      "unit": "建筑与设计学院",
+      "title": "哈尔滨工业大学建筑与设计学院2027年博士研究生“申请-考核”、硕博连读秋季招生工作方案",
+      "url": "https://arch.hit.edu.cn/2026/1021/c11953a403104/page.htm"
+    },
+    {
       "type": "updated",
       "tier": "985",
       "school": "上海交通大学",
@@ -36,18 +68,66 @@
     {
       "type": "updated",
       "tier": "985",
-      "school": "上海交通大学",
-      "unit": "设计学院",
-      "title": "世界",
-      "url": "https://designschool.sjtu.edu.cn/"
-    },
-    {
-      "type": "updated",
-      "tier": "985",
       "school": "东南大学",
       "unit": "艺术学院",
       "title": "【研究生】东南大学艺术学院2027年接收推荐免试研究生报名通知",
       "url": "https://arts.seu.edu.cn/2026/0710/c17236a576463/page.htm"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "厦门大学",
+      "unit": "建筑与土木工程学院",
+      "title": "厦门大学建筑与土木工程学院",
+      "url": "https://archt.xmu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "武汉大学",
+      "unit": "城市设计学院",
+      "title": "武汉大学城市设计学院",
+      "url": "https://sud.whu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "湖南大学",
+      "unit": "设计艺术学院",
+      "title": "湖南大学建筑与规划学院",
+      "url": "https://arch.hnu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "四川大学",
+      "unit": "建筑与环境学院",
+      "title": "四川大学建筑与环境学院—官网",
+      "url": "https://acem.scu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西安交通大学",
+      "unit": "人居环境与建筑工程学院",
+      "title": "人居环境与建筑工程学院",
+      "url": "https://hsce.xjtu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "西北农林科技大学风景园林艺术学院",
+      "url": "https://ylxy.nwafu.edu.cn/"
+    },
+    {
+      "type": "updated",
+      "tier": "985",
+      "school": "西北农林科技大学",
+      "unit": "风景园林艺术学院",
+      "title": "风景园林艺术学院2027年博士研究生“申请-审核”制招生工作细则",
+      "url": "https://ylxy.nwafu.edu.cn/tzgg/22be61bf95cc457786fe69eba483a366.htm"
     }
   ]
 }
